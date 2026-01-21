@@ -105,7 +105,7 @@ class WallpaperBot:
         while True:
             try:
                 print(f"السكون لمدة 3 ساعات...")
-                await asyncio.sleep(300)
+                await asyncio.sleep(10800)
                 
                 success = await self.post()
                 

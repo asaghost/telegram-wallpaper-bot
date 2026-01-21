@@ -1,4 +1,3 @@
-```python
 import asyncio, random, os, time
 from datetime import datetime
 from telegram import Bot
